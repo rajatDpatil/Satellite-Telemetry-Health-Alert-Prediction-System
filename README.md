@@ -136,9 +136,11 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 - Built for educational and research purposes in satellite telemetry analysis
 - Thanks to the open-source community for the amazing tools and libraries
 
+---
 
-## Contact
-For questions or collaboration opportunities, please reach out via [GitHub Issues](https://github.com/rajatDpatil/satellite-telemetry-health-prediction/issues).
+**Author:** [Rajat D Patil]  
+**Email:** [rajatd.patil2004@gmail.com]  
+**Contact:** [https://www.linkedin.com/in/rajat-d-patil/]
 
 
 ** If you find this project useful, please consider giving it a star!**
